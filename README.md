@@ -1,4 +1,5 @@
-# vue-hackernews-2.0
+
+# vue-ssr-2.0 预研
 
 HackerNews clone built with Vue 2.0 + vue-router + vuex, with server-side rendering.
 
@@ -55,7 +56,3 @@ npm run build
 # serve in production mode
 npm start
 ```
-
-## License
-
-MIT
